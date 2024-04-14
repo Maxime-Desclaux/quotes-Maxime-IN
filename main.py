@@ -1,5 +1,7 @@
 from functions import *
 
+#kakou
+
 def menu():
     print("\n==== Programming Quotes ====")
     print("random : Random quote")
